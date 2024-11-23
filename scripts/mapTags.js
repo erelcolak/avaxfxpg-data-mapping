@@ -36,46 +36,34 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getCustomerNotesByCustomerOldId = void 0;
+exports.mapTags = void 0;
+var fs = require("fs");
 var constants_1 = require("../constants");
-var getCustomerNotesByCustomerOldId = function (customerOldId) { return __awaiter(void 0, void 0, void 0, function () {
-    var res, error_1;
+var mongodb_1 = require("mongodb");
+var mapTags = function () { return __awaiter(void 0, void 0, void 0, function () {
+    var rawData, parsedData, arr;
     return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0:
-                _a.trys.push([0, 3, , 4]);
-                return [4 /*yield*/, fetch("https://crmapi.avaxonline.com/api/v1/notes/".concat(customerOldId, "/customer"), {
-                        headers: {
-                            accept: "application/json, text/plain, */*",
-                            "accept-language": "tr,en-US;q=0.9,en;q=0.8,nl;q=0.7",
-                            authorization: constants_1.bearerToken,
-                            "cache-control": "no-cache",
-                            pragma: "no-cache",
-                            priority: "u=1, i",
-                            "sec-ch-ua": '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
-                            "sec-ch-ua-mobile": "?0",
-                            "sec-ch-ua-platform": '"macOS"',
-                            "sec-fetch-dest": "empty",
-                            "sec-fetch-mode": "cors",
-                            "sec-fetch-site": "same-site",
-                            Referer: "https://crm.avaxonline.com/",
-                            "Referrer-Policy": "strict-origin-when-cross-origin",
-                        },
-                        body: null,
-                        method: "GET",
-                    })];
-            case 1:
-                res = _a.sent();
-                if (res.status === 404) {
-                    return [2 /*return*/, []];
-                }
-                return [4 /*yield*/, res.json()];
-            case 2: return [2 /*return*/, _a.sent()];
-            case 3:
-                error_1 = _a.sent();
-                return [2 /*return*/, []];
-            case 4: return [2 /*return*/];
-        }
+        rawData = fs.readFileSync("".concat(constants_1.mainFolder).concat(constants_1.leadsFolder, "index.json"));
+        parsedData = JSON.parse(rawData.toString());
+        arr = [];
+        parsedData.forEach(function (item) {
+            var date = new Date();
+            var obj = {
+                // base entity properties
+                oldId: item.id,
+                _id: { $oid: new mongodb_1.ObjectId() },
+                createDate: { $date: date },
+                updateDate: { $date: date },
+                deleted: false,
+                // entity properties
+                name: item.name,
+                color: "LIGHT_GREEN",
+            };
+            arr.push(obj);
+        });
+        fs.writeFileSync("".concat(constants_1.mappedFolder).concat(constants_1.tagsFolder, "index.json"), JSON.stringify(arr));
+        return [2 /*return*/];
     });
 }); };
-exports.getCustomerNotesByCustomerOldId = getCustomerNotesByCustomerOldId;
+exports.mapTags = mapTags;
+(0, exports.mapTags)();

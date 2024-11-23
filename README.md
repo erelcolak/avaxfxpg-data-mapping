@@ -1,3 +1,19 @@
+`fetchAllCustomerNotes`
+
+bu metodla sayfalamasıyla birlikte indirilen müşterileri tek tek gezip her bir müşteri için yazılan notlar indirilir. Sonrasında rollerin eşleştirmesi yapılmaya başlanır.
+
+`mapRoles`
+
+Burada önce tüm rolleri map'leyip daha sonra hali hazırda "statik" ObjectId'lere sahip olan SYSTEM ve ADMIN rollerinin id'lerini replace edilmesi gerekmektedir.
+
+`mapTeams`
+
+Tüm takımları maplemek gerekmekte.
+
+`mapTags`
+
+Tüm "lead"leri tags adı altında maplemek gerekmekte. Burada "renk" seçimi sonradan düzenlenmeli.
+
 # avaxfxpg-data-mapping
 
 # Satış Ekibi

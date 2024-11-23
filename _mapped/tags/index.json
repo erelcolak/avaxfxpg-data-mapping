@@ -1,0 +1,146 @@
+[
+  {
+    "oldId": 1,
+    "_id": { "$oid": "674261b1e87c79967a155194" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Yeni Kayıt",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 3,
+    "_id": { "$oid": "674261b1e87c79967a155195" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "İlgisiz",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 2,
+    "_id": { "$oid": "674261b1e87c79967a155196" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Cevapsız",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 4,
+    "_id": { "$oid": "674261b1e87c79967a155197" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Müsait Değil",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 5,
+    "_id": { "$oid": "674261b1e87c79967a155198" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Aktif Potansiyel",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 6,
+    "_id": { "$oid": "674261b1e87c79967a155199" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Deaktif Potansiyel",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 7,
+    "_id": { "$oid": "674261b1e87c79967a15519a" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Takip",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 8,
+    "_id": { "$oid": "674261b1e87c79967a15519b" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Yakın Takip",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 9,
+    "_id": { "$oid": "674261b1e87c79967a15519c" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Uzak takip",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 10,
+    "_id": { "$oid": "674261b1e87c79967a15519d" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Kullanım dışı",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 11,
+    "_id": { "$oid": "674261b1e87c79967a15519e" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Arama Süreci",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 12,
+    "_id": { "$oid": "674261b1e87c79967a15519f" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Active",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 13,
+    "_id": { "$oid": "674261b1e87c79967a1551a0" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Deaktif",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 14,
+    "_id": { "$oid": "674261b1e87c79967a1551a1" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Potansiyel",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 15,
+    "_id": { "$oid": "674261b1e87c79967a1551a2" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Aranmaması gerek",
+    "color": "LIGHT_GREEN"
+  },
+  {
+    "oldId": 17,
+    "_id": { "$oid": "674261b1e87c79967a1551a3" },
+    "createDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "updateDate": { "$date": "2024-11-23T23:13:53.322Z" },
+    "deleted": false,
+    "name": "Ulaşılamıyor",
+    "color": "LIGHT_GREEN"
+  }
+]

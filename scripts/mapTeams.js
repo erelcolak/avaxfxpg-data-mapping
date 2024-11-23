@@ -36,20 +36,34 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getAllNotesByCustomerOldId = void 0;
+exports.mapTeams = void 0;
 var fs = require("fs");
-var getCustomerNotesByCustomerOldId_1 = require("./getCustomerNotesByCustomerOldId");
 var constants_1 = require("../constants");
-var getAllNotesByCustomerOldId = function (customerOldId) { return __awaiter(void 0, void 0, void 0, function () {
-    var _personNotes;
+var mongodb_1 = require("mongodb");
+var mapTeams = function () { return __awaiter(void 0, void 0, void 0, function () {
+    var rawData, parsedData, arr;
     return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0: return [4 /*yield*/, (0, getCustomerNotesByCustomerOldId_1.getCustomerNotesByCustomerOldId)(customerOldId)];
-            case 1:
-                _personNotes = _a.sent();
-                fs.writeFileSync("".concat(constants_1.mainFolder).concat(constants_1.notesFolder).concat(customerOldId, ".json"), JSON.stringify(_personNotes));
-                return [2 /*return*/];
-        }
+        rawData = fs.readFileSync("".concat(constants_1.mainFolder).concat(constants_1.teamsFolder, "index.json"));
+        parsedData = JSON.parse(rawData.toString());
+        arr = [];
+        parsedData.forEach(function (item) {
+            var date = new Date();
+            var obj = {
+                // base entity properties
+                oldId: item.id,
+                _id: { $oid: new mongodb_1.ObjectId() },
+                createDate: { $date: date },
+                updateDate: { $date: date },
+                deleted: false,
+                // entity properties
+                name: item.name.toUpperCase(),
+                teamLeaderId: null,
+            };
+            arr.push(obj);
+        });
+        fs.writeFileSync("".concat(constants_1.mappedFolder).concat(constants_1.teamsFolder, "index.json"), JSON.stringify(arr));
+        return [2 /*return*/];
     });
 }); };
-exports.getAllNotesByCustomerOldId = getAllNotesByCustomerOldId;
+exports.mapTeams = mapTeams;
+(0, exports.mapTeams)();

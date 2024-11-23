@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fetchAllCustomerNotes": "npx tsc ./scripts/fetchAllCustomerNotes.ts && node ./scripts/fetchAllCustomerNotes.js"
+    "fetchAllCustomerNotes": "npx tsc ./scripts/fetchAllCustomerNotes.ts && node ./scripts/fetchAllCustomerNotes.js",
+    "mapRoles": "npx tsc ./scripts/mapRoles.ts && node ./scripts/mapRoles.js",
+    "mapTeams": "npx tsc ./scripts/mapTeams.ts && node ./scripts/mapTeams.js",
+    "mapTags": "npx tsc ./scripts/mapTags.ts && node ./scripts/mapTags.js"
   },
   "author": "",
   "license": "ISC",

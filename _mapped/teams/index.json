@@ -1,0 +1,47 @@
+[
+  {
+    "oldId": 1,
+    "_id": { "$oid": "674260201ff074d40cb45557" },
+    "createDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "updateDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "deleted": false,
+    "name": "YÖNETICI",
+    "teamLeaderId": null
+  },
+  {
+    "oldId": 2,
+    "_id": { "$oid": "674260201ff074d40cb45558" },
+    "createDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "updateDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "deleted": false,
+    "name": "ŞUBE 2 DENİZ",
+    "teamLeaderId": null
+  },
+  {
+    "oldId": 3,
+    "_id": { "$oid": "674260201ff074d40cb45559" },
+    "createDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "updateDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "deleted": false,
+    "name": "T1 KAAN",
+    "teamLeaderId": null
+  },
+  {
+    "oldId": 5,
+    "_id": { "$oid": "674260201ff074d40cb4555a" },
+    "createDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "updateDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "deleted": false,
+    "name": "BEST TEAM",
+    "teamLeaderId": null
+  },
+  {
+    "oldId": 4,
+    "_id": { "$oid": "674260201ff074d40cb4555b" },
+    "createDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "updateDate": { "$date": "2024-11-23T23:07:12.671Z" },
+    "deleted": false,
+    "name": "T2 BORA",
+    "teamLeaderId": null
+  }
+]
