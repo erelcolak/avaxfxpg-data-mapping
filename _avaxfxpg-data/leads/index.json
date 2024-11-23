@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "createdDate": "2024-03-03T22:27:07.569+00:00",
+    "createdUser": "System",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Yeni Kayıt",
+    "code": "yeni_kayit"
+  },
+  {
+    "id": 3,
+    "createdDate": "2024-03-03T22:27:07.569+00:00",
+    "createdUser": "System",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "İlgisiz",
+    "code": "ilgisiz"
+  },
+  {
+    "id": 2,
+    "createdDate": "2024-03-03T22:27:07.569+00:00",
+    "createdUser": "System",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Cevapsız",
+    "code": "cevapsiz"
+  },
+  {
+    "id": 4,
+    "createdDate": "2024-03-03T22:27:07.569+00:00",
+    "createdUser": "System",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Müsait Değil",
+    "code": "musait_degil"
+  },
+  {
+    "id": 5,
+    "createdDate": "2023-08-03T09:12:30.439+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Active-pot",
+    "code": "active-pot"
+  },
+  {
+    "id": 6,
+    "createdDate": "2023-08-03T09:12:33.070+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Deactive-pot",
+    "code": "deactive-pot"
+  },
+  {
+    "id": 7,
+    "createdDate": "2023-08-03T09:12:35.735+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Takip",
+    "code": "takip"
+  },
+  {
+    "id": 8,
+    "createdDate": "2023-08-03T09:12:41.030+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Yakın Takip",
+    "code": "yakın_takip"
+  },
+  {
+    "id": 9,
+    "createdDate": "2023-08-03T09:12:43.624+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Uzak takip",
+    "code": "uzak_takip"
+  },
+  {
+    "id": 10,
+    "createdDate": "2023-08-03T09:12:47.531+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Kullanım dışı",
+    "code": "kullanım_dışı"
+  },
+  {
+    "id": 11,
+    "createdDate": "2023-08-04T08:04:36.187+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Arama Süreci",
+    "code": "arama_süreci"
+  },
+  {
+    "id": 12,
+    "createdDate": "2023-10-02T07:56:57.879+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Active",
+    "code": "active"
+  },
+  {
+    "id": 13,
+    "createdDate": "2023-10-02T07:57:11.564+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Deactive",
+    "code": "deactive"
+  },
+  {
+    "id": 14,
+    "createdDate": "2023-12-07T15:46:10.842+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Potansiyel",
+    "code": "potansiyel"
+  },
+  {
+    "id": 15,
+    "createdDate": "2024-02-05T12:46:14.444+00:00",
+    "createdUser": "efeo",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Aranmaması gerek",
+    "code": "aranmaması_gerek"
+  },
+  {
+    "id": 17,
+    "createdDate": "2024-09-10T12:45:04.323+00:00",
+    "createdUser": "developer",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Ulaşılamıyor",
+    "code": "ulaşılamıyor"
+  }
+]

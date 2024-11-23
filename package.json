@@ -1,0 +1,17 @@
+{
+  "name": "avaxfxpg-data-mapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetchAllCustomerNotes": "npx tsc ./scripts/fetchAllCustomerNotes.ts && node ./scripts/fetchAllCustomerNotes.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.9.3",
+    "mongodb": "^6.11.0",
+    "typescript": "^5.7.2"
+  }
+}

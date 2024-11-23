@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "createdDate": "2022-05-10T20:18:40.969+00:00",
+    "createdUser": "Test Admin User",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "Yönetici",
+    "code": null
+  },
+  {
+    "id": 2,
+    "createdDate": "2024-09-05T08:35:28.367+00:00",
+    "createdUser": "keremy",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "ŞUBE 2 DENİZ",
+    "code": null
+  },
+  {
+    "id": 3,
+    "createdDate": "2024-09-05T08:39:16.827+00:00",
+    "createdUser": "keremy",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "T1 KAAN",
+    "code": null
+  },
+  {
+    "id": 5,
+    "createdDate": "2024-09-05T08:51:43.160+00:00",
+    "createdUser": "keremy",
+    "updatedDate": null,
+    "updatedUser": null,
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "BEST TEAM",
+    "code": null
+  },
+  {
+    "id": 4,
+    "createdDate": "2024-09-05T09:29:16.155+00:00",
+    "createdUser": "keremy",
+    "updatedDate": "2024-09-05T09:29:16.156+00:00",
+    "updatedUser": "burakb",
+    "deletedDate": null,
+    "deletedUser": null,
+    "name": "T2 BORA",
+    "code": null
+  }
+]
