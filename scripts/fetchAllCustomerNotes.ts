@@ -15,4 +15,4 @@ export const fetchAllCustomerNotes = async (fileIndex: number) => {
 };
 
 // invoke
-fetchAllCustomerNotes(15);
+fetchAllCustomerNotes(27);
