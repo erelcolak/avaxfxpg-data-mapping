@@ -1,0 +1,514 @@
+[
+  {
+    "oldId": "diger",
+    "_id": { "$oid": "674266a9ce25c273e79108a0" },
+    "createDate": { "$date": "2024-11-23T23:35:05.366Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.366Z" },
+    "deleted": false,
+    "name": "diger"
+  },
+  {
+    "oldId": "ZEYNEPDATA",
+    "_id": { "$oid": "674266a9ce25c273e79108a1" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "ZEYNEPDATA"
+  },
+  {
+    "oldId": "dnzözel",
+    "_id": { "$oid": "674266a9ce25c273e79108a2" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "dnzözel"
+  },
+  {
+    "oldId": "gv yenı",
+    "_id": { "$oid": "674266a9ce25c273e79108a3" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "gv yenı"
+  },
+  {
+    "oldId": "ganaktif",
+    "_id": { "$oid": "674266a9ce25c273e79108a4" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "ganaktif"
+  },
+  {
+    "oldId": "golden pot",
+    "_id": { "$oid": "674266a9ce25c273e79108a5" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "golden pot"
+  },
+  {
+    "oldId": "KAYAPOT",
+    "_id": { "$oid": "674266a9ce25c273e79108a6" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "KAYAPOT"
+  },
+  {
+    "oldId": "Grckhesap",
+    "_id": { "$oid": "674266a9ce25c273e79108a7" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "Grckhesap"
+  },
+  {
+    "oldId": "LOTAS",
+    "_id": { "$oid": "674266a9ce25c273e79108a8" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "LOTAS"
+  },
+  {
+    "oldId": "denızdata",
+    "_id": { "$oid": "674266a9ce25c273e79108a9" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "denızdata"
+  },
+  {
+    "oldId": "RETDATADENIZ",
+    "_id": { "$oid": "674266a9ce25c273e79108aa" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "RETDATADENIZ"
+  },
+  {
+    "oldId": "BAM",
+    "_id": { "$oid": "674266a9ce25c273e79108ab" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "BAM"
+  },
+  {
+    "oldId": "ASKT",
+    "_id": { "$oid": "674266a9ce25c273e79108ac" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "ASKT"
+  },
+  {
+    "oldId": "BORSAM",
+    "_id": { "$oid": "674266a9ce25c273e79108ad" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "BORSAM"
+  },
+  {
+    "oldId": "refedadata",
+    "_id": { "$oid": "674266a9ce25c273e79108ae" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "refedadata"
+  },
+  {
+    "oldId": "prdata",
+    "_id": { "$oid": "674266a9ce25c273e79108af" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "prdata"
+  },
+  {
+    "oldId": "Joydata",
+    "_id": { "$oid": "674266a9ce25c273e79108b0" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "Joydata"
+  },
+  {
+    "oldId": "2newpot",
+    "_id": { "$oid": "674266a9ce25c273e79108b1" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "2newpot"
+  },
+  {
+    "oldId": "albdata",
+    "_id": { "$oid": "674266a9ce25c273e79108b2" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "albdata"
+  },
+  {
+    "oldId": "mıraydata ",
+    "_id": { "$oid": "674266a9ce25c273e79108b3" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "mıraydata "
+  },
+  {
+    "oldId": "MİRAYDATA",
+    "_id": { "$oid": "674266a9ce25c273e79108b4" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "MİRAYDATA"
+  },
+  {
+    "oldId": "TURKO",
+    "_id": { "$oid": "674266a9ce25c273e79108b5" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "TURKO"
+  },
+  {
+    "oldId": "ecemdata",
+    "_id": { "$oid": "674266a9ce25c273e79108b6" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "ecemdata"
+  },
+  {
+    "oldId": "Aktas",
+    "_id": { "$oid": "674266a9ce25c273e79108b7" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "Aktas"
+  },
+  {
+    "oldId": "SVİP",
+    "_id": { "$oid": "674266a9ce25c273e79108b8" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "SVİP"
+  },
+  {
+    "oldId": "klasdata",
+    "_id": { "$oid": "674266a9ce25c273e79108b9" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "klasdata"
+  },
+  {
+    "oldId": "turko",
+    "_id": { "$oid": "674266a9ce25c273e79108ba" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "turko"
+  },
+  {
+    "oldId": "reelgcm",
+    "_id": { "$oid": "674266a9ce25c273e79108bb" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "reelgcm"
+  },
+  {
+    "oldId": "KRMDATA",
+    "_id": { "$oid": "674266a9ce25c273e79108bc" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "KRMDATA"
+  },
+  {
+    "oldId": "GCMX",
+    "_id": { "$oid": "674266a9ce25c273e79108bd" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "GCMX"
+  },
+  {
+    "oldId": "HRNGCM7DATA",
+    "_id": { "$oid": "674266a9ce25c273e79108be" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "HRNGCM7DATA"
+  },
+  {
+    "oldId": "HRNGCM",
+    "_id": { "$oid": "674266a9ce25c273e79108bf" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "HRNGCM"
+  },
+  {
+    "oldId": "1turkom",
+    "_id": { "$oid": "674266a9ce25c273e79108c0" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "1turkom"
+  },
+  {
+    "oldId": "btcturko",
+    "_id": { "$oid": "674266a9ce25c273e79108c1" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "btcturko"
+  },
+  {
+    "oldId": "BURDATA",
+    "_id": { "$oid": "674266a9ce25c273e79108c2" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "BURDATA"
+  },
+  {
+    "oldId": "burdata",
+    "_id": { "$oid": "674266a9ce25c273e79108c3" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "burdata"
+  },
+  {
+    "oldId": "GCM",
+    "_id": { "$oid": "674266a9ce25c273e79108c4" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "GCM"
+  },
+  {
+    "oldId": "MRKTNG",
+    "_id": { "$oid": "674266a9ce25c273e79108c5" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "MRKTNG"
+  },
+  {
+    "oldId": "Diğer",
+    "_id": { "$oid": "674266a9ce25c273e79108c6" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "Diğer"
+  },
+  {
+    "oldId": "smg2data",
+    "_id": { "$oid": "674266a9ce25c273e79108c7" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "smg2data"
+  },
+  {
+    "oldId": "esındata",
+    "_id": { "$oid": "674266a9ce25c273e79108c8" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "esındata"
+  },
+  {
+    "oldId": "senadata",
+    "_id": { "$oid": "674266a9ce25c273e79108c9" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "senadata"
+  },
+  {
+    "oldId": "EYDATA",
+    "_id": { "$oid": "674266a9ce25c273e79108ca" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "EYDATA"
+  },
+  {
+    "oldId": "OzanData",
+    "_id": { "$oid": "674266a9ce25c273e79108cb" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "OzanData"
+  },
+  {
+    "oldId": "mrvdt",
+    "_id": { "$oid": "674266a9ce25c273e79108cc" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "mrvdt"
+  },
+  {
+    "oldId": "BRK",
+    "_id": { "$oid": "674266a9ce25c273e79108cd" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "BRK"
+  },
+  {
+    "oldId": "gvyenıkayıt",
+    "_id": { "$oid": "674266a9ce25c273e79108ce" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "gvyenıkayıt"
+  },
+  {
+    "oldId": "smgdata",
+    "_id": { "$oid": "674266a9ce25c273e79108cf" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "smgdata"
+  },
+  {
+    "oldId": "gvyakın",
+    "_id": { "$oid": "674266a9ce25c273e79108d0" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "gvyakın"
+  },
+  {
+    "oldId": "gann",
+    "_id": { "$oid": "674266a9ce25c273e79108d1" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "gann"
+  },
+  {
+    "oldId": "hsbcdata",
+    "_id": { "$oid": "674266a9ce25c273e79108d2" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "hsbcdata"
+  },
+  {
+    "oldId": "blueozelkgn",
+    "_id": { "$oid": "674266a9ce25c273e79108d3" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "blueozelkgn"
+  },
+  {
+    "oldId": "blueozelınfo",
+    "_id": { "$oid": "674266a9ce25c273e79108d4" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "blueozelınfo"
+  },
+  {
+    "oldId": "newpot",
+    "_id": { "$oid": "674266a9ce25c273e79108d5" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "newpot"
+  },
+  {
+    "oldId": "eyluldata",
+    "_id": { "$oid": "674266a9ce25c273e79108d6" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "eyluldata"
+  },
+  {
+    "oldId": "soykandata",
+    "_id": { "$oid": "674266a9ce25c273e79108d7" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "soykandata"
+  },
+  {
+    "oldId": "asyaydata",
+    "_id": { "$oid": "674266a9ce25c273e79108d8" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "asyaydata"
+  },
+  {
+    "oldId": "dnmz",
+    "_id": { "$oid": "674266a9ce25c273e79108d9" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "dnmz"
+  },
+  {
+    "oldId": "bdata",
+    "_id": { "$oid": "674266a9ce25c273e79108da" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "bdata"
+  },
+  {
+    "oldId": "ecemaxa",
+    "_id": { "$oid": "674266a9ce25c273e79108db" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "ecemaxa"
+  },
+  {
+    "oldId": "efedata",
+    "_id": { "$oid": "674266a9ce25c273e79108dc" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "efedata"
+  },
+  {
+    "oldId": "melısdata",
+    "_id": { "$oid": "674266a9ce25c273e79108dd" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "melısdata"
+  },
+  {
+    "oldId": "mertdata",
+    "_id": { "$oid": "674266a9ce25c273e79108de" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "mertdata"
+  },
+  {
+    "oldId": "selcukdata",
+    "_id": { "$oid": "674266a9ce25c273e79108df" },
+    "createDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "updateDate": { "$date": "2024-11-23T23:35:05.367Z" },
+    "deleted": false,
+    "name": "selcukdata"
+  }
+]

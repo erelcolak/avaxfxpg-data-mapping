@@ -1,14 +1,5 @@
 [
   {
-    "oldId": 0,
-    "_id": { "$oid": "00015180aebc74cad7f063e7" },
-    "createDate": { "$date": "2024-11-23T23:06:33.159Z" },
-    "updateDate": { "$date": "2024-11-23T23:06:33.159Z" },
-    "deleted": false,
-    "name": "ADMIN",
-    "permissionList": []
-  },
-  {
     "oldId": 1,
     "_id": { "$oid": "0002a300aebc74cad7f063e8" },
     "createDate": { "$date": "2024-11-23T23:06:33.159Z" },

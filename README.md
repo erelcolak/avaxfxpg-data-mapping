@@ -1,6 +1,14 @@
+# befor mapping
+
 `fetchAllCustomerNotes`
 
 bu metodla sayfalamasıyla birlikte indirilen müşterileri tek tek gezip her bir müşteri için yazılan notlar indirilir. Sonrasında rollerin eşleştirmesi yapılmaya başlanır.
+
+`generateDatasourceNamesFromCustomers`
+
+bu metodla indirilen tüm kullanıcıların datasource'ları kullanıcıların içerisinden seçilerek bir array'e yazdırılır.
+
+# mapping
 
 `mapRoles`
 

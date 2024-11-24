@@ -6,9 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetchAllCustomerNotes": "npx tsc ./scripts/fetchAllCustomerNotes.ts && node ./scripts/fetchAllCustomerNotes.js",
+    "generateDatasourceNamesFromCustomers": "npx tsc ./scripts/generateDatasourceNamesFromCustomers.ts && node ./scripts/generateDatasourceNamesFromCustomers.js",
+    "mapDatasources": "npx tsc ./scripts/mapDatasources.ts && node ./scripts/mapDatasources.js",
     "mapRoles": "npx tsc ./scripts/mapRoles.ts && node ./scripts/mapRoles.js",
     "mapTeams": "npx tsc ./scripts/mapTeams.ts && node ./scripts/mapTeams.js",
-    "mapTags": "npx tsc ./scripts/mapTags.ts && node ./scripts/mapTags.js"
+    "mapTags": "npx tsc ./scripts/mapTags.ts && node ./scripts/mapTags.js",
+    "mapUsers": "npx tsc ./scripts/mapUsers.ts && node ./scripts/mapUsers.js"
   },
   "author": "",
   "license": "ISC",
